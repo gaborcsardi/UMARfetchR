@@ -10,8 +10,6 @@ check_data_xlsx(filename, codes)
 \item{filename}{Excel file with time series data}
 
 \item{codes}{character vector of codes}
-
-\item{con}{connection to the database}
 }
 \value{
 TRUE if it works
